@@ -3,6 +3,9 @@ This Workflow provides an easy way to trigger a new search inside [Lepton app](h
 
 The main purpose of this workflow is to agilize the process of finding gists inside Lepton. Without this you need to open Lepton, press a keyboard shortcut to trigger a search and type your search terms. With this workflow you can just open Alfred, type `gist search-term` and press enter.
 
+# Download
+Get the Workflow from [GitHub](https://github.com/MatiasFernandez/alfred-lepton/releases/latest).
+
 # Bugs, questions, feedback
 You can [open an issue on GitHub](https://github.com/MatiasFernandez/alfred-lepton/issues) and leave comments there.
 
